@@ -1,4 +1,4 @@
-# Plantilla para usar Three.js con React 
+# Plantilla para usar Three.js con React para el uso de SHADERS
 Sientete libre de usar esta plantilla c: 
 
 ## Instalacion 
